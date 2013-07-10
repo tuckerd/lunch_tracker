@@ -1,0 +1,4 @@
+== Lunch Tracker
+
+This basic app will track the lunch you have had over the past few days and will organize your lunches by date.
+
